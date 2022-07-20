@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xcurvnubaim
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning c++
 - 📫 How to reach me TG(@Nubaim)
 
 <!---
