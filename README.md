@@ -63,7 +63,7 @@ I'm an engineer driven by **curiosity and exploration**, especially at the inter
 
 ---
 
-💡 _"Never endling learning"_
+💡 _"Never ending learning"_
 
 
 <!---
